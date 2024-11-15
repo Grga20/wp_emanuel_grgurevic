@@ -1,0 +1,29 @@
+/* univerzalni selektor */
+* {
+    font-family: "Bebas Neue", sans-serif;
+
+  }
+  
+/* Element selektor */
+h3 {color: chartreuse;
+background-color: slateblue;}
+h4 {color: #002266;}
+p {font-weight: 100;
+    font-size: 2rem;}
+div {
+    width: 400px;
+    height: 400px;
+    background-color: mediumorchid;
+    text-align: center;
+}
+
+/* selektor KLASE */
+.naslov {color: lightblue;}
+.RGB {color: rgb (45, 256, 85);}
+.amet {background-color: coral;}
+/* selektor ID */
+#naslov1 {color: blueviolet;}
+
+/* font family */
+
+
